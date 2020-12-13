@@ -1,0 +1,3 @@
+﻿  Winterbells.cpp
+C:\Users\徐陈天野\Desktop\C语言游戏设计作业包（徐陈天野）\Winterbells\Winterbells\Winterbells.cpp(386,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Winterbells.vcxproj -> C:\Users\徐陈天野\Desktop\C语言游戏设计作业包（徐陈天野）\Winterbells\Debug\Winterbells.exe
